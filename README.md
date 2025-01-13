@@ -1,6 +1,6 @@
 # End-to-End Data Engineering on Azure
 
-<img width="738" alt="image" src="https://github.com/user-attachments/assets/583d97dd-3005-44ff-bac9-94dfb098f8df" />
+<img width="735" alt="image" src="https://github.com/user-attachments/assets/c538136e-afb7-448c-bcce-03a9c8adb406" />
 
 This repository demonstrates an **end-to-end data engineering pipeline** on Microsoft Azure. The project covers data ingestion, storage, transformation, analytics, and visualization using the following services:
 
