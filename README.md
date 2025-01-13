@@ -1,4 +1,4 @@
-# End-to-End Data Engineering on Azure (Educational Project)
+# End-to-End Data Engineering on Azure
 
 <img width="785" alt="image" src="https://github.com/user-attachments/assets/bf8eda41-87e0-42ce-bcfd-b8153007d968" />
 
